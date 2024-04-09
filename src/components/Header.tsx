@@ -5,7 +5,7 @@ import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrig
 const Header = () => {
    return (
       <header className="py-5 flex items-center justify-between px-3 mx-auto container">
-            <Image width={50} height={50} src="/azure-logo.png" alt="Azure" />
+            <Image width={100} height={100} src="/azure-logo.png" alt="Azure" />
             <nav>
                <ul className="flex items-center gap-x-[60px]">
                   <li>
