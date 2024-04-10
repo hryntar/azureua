@@ -4,10 +4,10 @@ import Invitation from "@/components/Invitation";
 
 export default function Home() {
    return (
-      <main>
+      <>
          <Banner />
          <EventList />
          <Invitation />
-      </main>
+      </>
    );
 }

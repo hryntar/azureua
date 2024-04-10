@@ -1,8 +1,10 @@
 import createMiddleware from 'next-intl/middleware';
+import {locales, localePrefix} from './navigation';
 
 export default createMiddleware({
-   locales: ['uk', 'en'],
-   defaultLocale: 'uk'
+   defaultLocale: 'uk',
+   localePrefix,
+   locales,
 });
 
 export const config = {
