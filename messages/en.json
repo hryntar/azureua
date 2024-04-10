@@ -1,0 +1,39 @@
+{
+   "Index": {
+      "banner_subtitle": "Join our Azure community!",
+      "banner_title": "Deepen your knowledge of Azure Cloud!"
+   },
+   "Header": {
+      "lang_choose": "Choose Language",
+      "link_about-us": "About Us",
+      "link_calendar": "Event Calendar",
+      "link_home": "Home"
+   },
+   "Events": {
+      "title": "Upcoming Events",
+
+      "event1": {
+         "imageURL": "/event1.png",
+         "event_title": "Webinar 'Implementing Azure DevOps in Project'",
+         "date_time": "April 15th, 18:00",
+         "description": "Deepen your knowledge of software development and project management based on Microsoft Azure DevOps. In this webinar, we will discuss best practices for using Azure DevOps to automate development, testing, and deployment processes. You will learn how to create an effective development cycle, collaborate on projects, and improve team work."
+      },
+      "event2": {
+         "imageURL": "/event2.jpg",
+         "event_title": "Lecture 'Fundamentals of Azure Machine Learning'",
+         "date_time": "April 20th, 17:30",
+         "description": "Deepen your knowledge of machine learning and data analysis on the Microsoft Azure platform. In this lecture, we will review key concepts and tools of Azure Machine Learning that will help you create and train machine learning models using the computing power of Azure cloud. You will learn how to create, train, and refine models for various data analysis and pattern recognition tasks."
+      },
+      "event3": {
+         "imageURL": "/event3.jpg",
+         "event_title": "Hackathon 'Solving Problems with Azure Cognitive Services'",
+         "date_time": "April 25-27",
+         "description": "Take part in our hackathon and join teams to solve interesting tasks using Azure Cognitive Services. In this event, you will have the opportunity to try and apply various artificial intelligence services, such as speech recognition, object detection in images, and much more. Gather your team, use your knowledge and creative approach to create innovative solutions that solve real problems using artificial intelligence."
+      }
+   },
+   "Invitation": {
+      "title": "Welcome to Azure Cloud Community!",
+      "text1": "Our community is designed for anyone interested in cloud technologies and Microsoft Azure products. Here you will find a variety of activities, from webinars to hackathons, to deepen your knowledge and skills. Join us to connect with experts, share experiences, and develop your professional cloud computing capabilities!",
+      "text2": "Ready to develop your knowledge and join the active community of Azure professionals? Join our community now and get access to the latest information resources, events and opportunities for growth in the field of cloud technologies!"
+   }
+}
