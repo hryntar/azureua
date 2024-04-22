@@ -1,9 +1,5 @@
 function CalendarPage() {
-   return (
-      <div>
-         Calendar
-      </div>
-   );
+   return <div>CalendarPage</div>;
 }
 
 export default CalendarPage;
