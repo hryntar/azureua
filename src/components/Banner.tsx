@@ -9,6 +9,6 @@ const Banner = () => {
          <p className="mt-3 font-semibold text-2xl">{t("banner_subtitle")}</p>
       </section>
    );
-};
+}; 
 
 export default Banner;
