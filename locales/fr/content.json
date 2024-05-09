@@ -3,15 +3,8 @@
       "banner_subtitle": "Долучайся до нашої Azure спільноти!",
       "banner_title": "Поглиб свої знання з Azure Cloud!"
    },
-   "Header": {
-      "lang_choose": "Оберіть мову",
-      "link_about-us": "Про нас",
-      "link_calendar": "Календар подій",
-      "link_home": "Головна"
-   },
    "Events": {
       "title": "Найближчі події",
-
       "event1": {
          "imageURL": "/event1.png",
          "event_title": "Вебінар 'Впровадження Azure DevOps в проекті'",
