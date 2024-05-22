@@ -9,7 +9,8 @@ export default getRequestConfig(async ({ locale }) => {
    return {
       messages: {
          ...(await import(`/locales/${locale}/skeleton.json`)).default,
-         ...(await import(`/locales/${locale}/content.json`)).default
+         ...(await import(`/locales/${locale}/content.json`)).default,
+         // ...(await import(`/locales/${locale}/buttons.json`)).default,
       }
    };
 });
